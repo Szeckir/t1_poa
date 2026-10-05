@@ -1,0 +1,12 @@
+caso;descricao;m;n;lcs;fb_iteracoes;fb_tempo_ns;pd_iteracoes;pd_tempo_ns
+01;Exemplo clássico (Cormen);7;6;4;152;298.8;42;284.8
+02;Caracteres intercalados;6;7;4;346;632.1;42;251.7
+03;Strings iguais;9;9;9;10;58.7;81;334.2
+04;Nada em comum;6;6;0;1847;3054.1;36;251.0
+05;String vazia;0;5;0;1;32.3;0;98.7
+06;Palavras parecidas;9;9;7;50;102.0;81;331.3
+07;Pior caso da força bruta;15;15;0;310235039;560276292.0;225;922.5
+08;Frases com espaços;20;21;8;;;420;959.1
+09;DNA do livro (Cormen);29;28;20;;;812;1343.0
+10;DNA aleatório;1000;1000;647;;;1000000;1225371.7
+11;Letras aleatórias;5000;5000;1630;;;25000000;69078888.7
