@@ -1,0 +1,3 @@
+# Frases com espaços (os espaços também são caracteres)
+PROGRAMACAO DINAMICA
+PROJETO DE ALGORITMOS

@@ -1,0 +1,4 @@
+# Exemplo clássico do livro de Cormen et al. (seção 15.4)
+# Formato: linhas iniciadas com '#' são comentários; a 1ª linha restante é S1 e a 2ª é S2.
+ABCBDAB
+BDCABA

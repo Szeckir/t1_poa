@@ -1,0 +1,3 @@
+# Sequências de DNA usadas como exemplo no livro de Cormen et al. (LCS = 20)
+ACCGGTCGAGTGCGCGGAAGCCGGCCGAA
+GTCGTTCGGAATGCCGTTGCTCTGTAAA

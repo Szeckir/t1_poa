@@ -1,0 +1,3 @@
+# Pior caso da força bruta: nenhum caractere em comum (14 x 14)
+AAAAAAAAAAAAAA
+BBBBBBBBBBBBBB
